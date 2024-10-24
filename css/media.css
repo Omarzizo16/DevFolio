@@ -1,0 +1,17 @@
+@media (min-width: 768px) { 
+    .testimonial-content .description{
+        padding: 0 5rem;
+    }
+    .box-shadow{
+        padding: 3rem;
+    }
+}
+@media (min-width: 992px) {  
+    .testimonial-content .description{
+        padding: 0 8rem;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 10;
+        padding-left: 10;
+    }
+}
